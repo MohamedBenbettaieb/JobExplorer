@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D178102-7D26-445F-AD37-F97B01AC2198}|tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\tests\\jobexplorer.unittests\\services\\remoteokjobservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D178102-7D26-445F-AD37-F97B01AC2198}|tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj|solutionrelative:tests\\jobexplorer.unittests\\services\\remoteokjobservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1676994A-323F-49FB-91F1-974562D648FA}|src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.infrastructure\\services\\remoteokjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676994A-323F-49FB-91F1-974562D648FA}|src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj|solutionrelative:src\\jobexplorer.infrastructure\\services\\remoteokjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D26A751-2466-477D-A753-F7293E6211C8}|src\\JobExplorer.Domain\\JobExplorer.Domain.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D26A751-2466-477D-A753-F7293E6211C8}|src\\JobExplorer.Domain\\JobExplorer.Domain.csproj|solutionrelative:src\\jobexplorer.domain\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6485D86E-17EB-4C73-A171-012DB7B65959}|src\\JobExplorer.Application\\JobExplorer.Application.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.application\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6485D86E-17EB-4C73-A171-012DB7B65959}|src\\JobExplorer.Application\\JobExplorer.Application.csproj|solutionrelative:src\\jobexplorer.application\\interfaces\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DFE61-9103-4486-83F0-CDBBD5AEEA07}|src\\JobExplorer.Api\\JobExplorer.Api.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DFE61-9103-4486-83F0-CDBBD5AEEA07}|src\\JobExplorer.Api\\JobExplorer.Api.csproj|solutionrelative:src\\jobexplorer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DFE61-9103-4486-83F0-CDBBD5AEEA07}|src\\JobExplorer.Api\\JobExplorer.Api.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463DFE61-9103-4486-83F0-CDBBD5AEEA07}|src\\JobExplorer.Api\\JobExplorer.Api.csproj|solutionrelative:src\\jobexplorer.api\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D178102-7D26-445F-AD37-F97B01AC2198}|tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\tests\\jobexplorer.unittests\\jobexplorer.unittests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D178102-7D26-445F-AD37-F97B01AC2198}|tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj|solutionrelative:tests\\jobexplorer.unittests\\jobexplorer.unittests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463DFE61-9103-4486-83F0-CDBBD5AEEA07}|src\\JobExplorer.Api\\JobExplorer.Api.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.api\\jobexplorer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{463DFE61-9103-4486-83F0-CDBBD5AEEA07}|src\\JobExplorer.Api\\JobExplorer.Api.csproj|solutionrelative:src\\jobexplorer.api\\jobexplorer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1676994A-323F-49FB-91F1-974562D648FA}|src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.infrastructure\\jobexplorer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1676994A-323F-49FB-91F1-974562D648FA}|src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj|solutionrelative:src\\jobexplorer.infrastructure\\jobexplorer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D26A751-2466-477D-A753-F7293E6211C8}|src\\JobExplorer.Domain\\JobExplorer.Domain.csproj|c:\\users\\picas\\onedrive\\desktop\\upwork\\jobexplorer\\src\\jobexplorer.domain\\jobexplorer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D26A751-2466-477D-A753-F7293E6211C8}|src\\JobExplorer.Domain\\JobExplorer.Domain.csproj|solutionrelative:src\\jobexplorer.domain\\jobexplorer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobExplorer.UnitTests.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj.Backup.tmp",
+              "RelativeToolTip": "tests\\JobExplorer.UnitTests\\JobExplorer.UnitTests.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T14:13:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoteOkJobServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\tests\\JobExplorer.UnitTests\\Services\\RemoteOkJobServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\JobExplorer.UnitTests\\Services\\RemoteOkJobServiceTests.cs",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\tests\\JobExplorer.UnitTests\\Services\\RemoteOkJobServiceTests.cs",
+              "RelativeToolTip": "tests\\JobExplorer.UnitTests\\Services\\RemoteOkJobServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:07:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Api\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Api\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Api\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "src\\JobExplorer.Api\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:57:20.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Api\\Program.cs",
+              "RelativeToolTip": "src\\JobExplorer.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:55:04.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteOkJobService.cs",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Infrastructure\\Services\\RemoteOkJobService.cs",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Infrastructure\\Services\\RemoteOkJobService.cs",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Infrastructure\\Services\\RemoteOkJobService.cs",
+              "RelativeToolTip": "src\\JobExplorer.Infrastructure\\Services\\RemoteOkJobService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:54:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobExplorer.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj",
+              "RelativeToolTip": "src\\JobExplorer.Infrastructure\\JobExplorer.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T13:54:10.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Application\\Interfaces\\IJobService.cs",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Application\\Interfaces\\IJobService.cs",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Application\\Interfaces\\IJobService.cs",
+              "RelativeToolTip": "src\\JobExplorer.Application\\Interfaces\\IJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:52:43.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Domain\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Domain\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Domain\\Models\\Job.cs",
+              "RelativeToolTip": "src\\JobExplorer.Domain\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:49:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobExplorer.Domain",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Domain\\JobExplorer.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Domain\\JobExplorer.Domain.csproj",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Domain\\JobExplorer.Domain.csproj",
+              "RelativeToolTip": "src\\JobExplorer.Domain\\JobExplorer.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T13:48:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobExplorer.Api",
+              "DocumentMoniker": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Api\\JobExplorer.Api.csproj",
+              "RelativeDocumentMoniker": "src\\JobExplorer.Api\\JobExplorer.Api.csproj",
+              "ToolTip": "C:\\Users\\picas\\OneDrive\\Desktop\\upwork\\JobExplorer\\src\\JobExplorer.Api\\JobExplorer.Api.csproj",
+              "RelativeToolTip": "src\\JobExplorer.Api\\JobExplorer.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T13:48:37.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

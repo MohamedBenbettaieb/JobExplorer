@@ -1,0 +1,25 @@
+# Node.js / React Native
+node_modules/
+*.log
+.env
+android/.gradle/
+ios/Pods/
+*.keystore
+*.jks
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.pdb
+
+# Playwright test outputs
+test-results/
+playwright-report/
+
+# VSCode and OS-specific
+.vscode/
+.DS_Store
+Thumbs.db
