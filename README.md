@@ -1,6 +1,6 @@
 # JobExplorer 🧭
 
-**JobExplorer** is a full-stack application that allows users to search for jobs using a mobile app built with **React Native**, powered by a **.NET 6 Web API** backend. The system also includes **end-to-end (E2E)** tests using **Playwright** to ensure the full user journey works as expected.
+**JobExplorer** is a full-stack application that allows users to search for jobs using a mobile app built with **React Native**, powered by a **.NET Web API** backend. The system also includes **end-to-end (E2E)** tests using **Playwright** to ensure the full user journey works as expected.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ```
 JobExplorer/
-├── backend/                   # .NET 6 Web API
+├── backend/                   # .NET Web API
 │   └── Controllers/
 ├── mobile/                    # React Native (Expo)
 │   └── HomeScreen.tsx
@@ -31,7 +31,7 @@ JobExplorer/
 ## 🛠 Prerequisites
 
 - Node.js >= 18  
-- .NET 6 SDK  
+- .NET SDK  
 - Playwright (`npx playwright install`)  
 - Expo CLI (`npm install -g expo-cli`)  
 - Android/iOS emulator or Expo Go app on your device
@@ -137,7 +137,7 @@ test('can search for jobs and see results', async ({ page }) => {
 
 | Layer        | Tech                         |
 |--------------|------------------------------|
-| Backend      | .NET 6 Web API               |
+| Backend      | .NET Web API               |
 | Mobile App   | React Native (Expo)          |
 | Testing      | Playwright                   |
 | Styling      | React Native StyleSheet      |
